@@ -1,0 +1,8 @@
+node_modules
+build
+*.solved.js
+cache
+.openzeppelin
+.vscode
+artifacts
+cache
